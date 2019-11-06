@@ -3,6 +3,8 @@ Trabalho Realizado para o Cliente 01
 
 Foi utilizado WordPress 5.2.4, mudança do prefixo das tabelas do WordPress, PHP 7.1.33, tema filho do WordPress (com programação em PHP) e CSS Adicional.
 
+Tema: http://preview.themeforest.net/item/mygrowth-business-consulting-and-professional-services-wordpress-theme/full_screen_preview/20717796?_ga=2.212752791.2094511638.1534164363-1749544119.1529607967
+
 Power Point Enviado Pelo Cliente:
 
 ![](https://github.com/paulo-correia/portfolio_cliente01/blob/master/Power_point_enviado.png?raw=true)
